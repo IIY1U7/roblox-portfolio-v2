@@ -1,6 +1,6 @@
 /* ===== Thème verdure (v2) ===== */
 html,body{overflow-x:hidden}
-body.figma-home,body:not(.figma-home){background:#2e9e3e url("assets/nature-bricks.png?v=3") 0 0/960px 960px repeat fixed}
+body.figma-home,body:not(.figma-home){background:#2e9e3e url("assets/nature-bricks.png?v=4") 0 0/1152px 1152px repeat fixed}
 body.figma-home:before{background:radial-gradient(ellipse at center,transparent 45%,rgba(6,40,14,.35))}
 body:not(.figma-home):before{content:"";position:fixed;inset:0;background:radial-gradient(ellipse at center,transparent 45%,rgba(6,40,14,.35));pointer-events:none;z-index:0}
 
